@@ -49,6 +49,7 @@ This will:
 title = {Curriculum-Aware Abstraction-Guided Learning for Sketch-Based Image Retrieval (CAS-SBIR)},
 
 author = {Mohammed A. S. Al-Mohamadi and Prabhakar C. J.},
+Contact: almohmdy30@gmail.com GitHub: https://github.com/mohammedalmohmdy
 
 journal = {...........}, year = {2026} }
 
